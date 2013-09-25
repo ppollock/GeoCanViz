@@ -1,0 +1,1 @@
+(function() {define([], function () {"use strict";var getDict,dict={"%lang-code":"fr","%lang-eng":"French","%lang-fra":"français","%all":"Tous","%home":"Accueil","%main-page":"Page principale","%toolbarmain-help":"Page d'aide de GéoCanViz","%toolbarholder-caption":"Barre d'outils",}; getDict = function(val) {return dict[val];};return {getDict: getDict};});}).call(this);
